@@ -11,7 +11,7 @@
 
 | Area | Detail |
 | --- | --- |
-| Data engineering | Pipelines, integrations and warehouse builds (Microsoft Fabric, SQL) |
+| Data engineering | Pipelines, integrations and warehouse builds (AWS, Microsoft Fabric, SQL) |
 | Analytics & BI | Semantic models, reporting layers and dashboards that get used |
 | Web platforms | TypeScript / Next.js applications with real data at the core |
 | Automation | Airflow orchestration, scheduled refresh, operational tooling |
