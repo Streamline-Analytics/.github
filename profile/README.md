@@ -14,6 +14,7 @@
 | Data engineering | Pipelines, integrations and warehouse builds (AWS, Microsoft Fabric, SQL) |
 | Analytics & BI | Semantic models, reporting layers and dashboards that get used |
 | Web platforms | TypeScript / Next.js applications with real data at the core |
+| AI & local inference | LLM integration, self-hosted models and on-device/on-prem inference — no data leaves your environment |
 | Automation | Airflow orchestration, scheduled refresh, operational tooling |
 
 ## Open source
