@@ -17,6 +17,10 @@
 | AI & local inference | LLM integration, self-hosted models and on-device/on-prem inference — no data leaves your environment |
 | Automation | Airflow orchestration, scheduled refresh, operational tooling |
 
+Our local inference runs on our own NVIDIA DGX Sparks.
+
+[![Powered by TensorFold](https://tensorfold.dev/assets/brand/badges/png/powered-by-tensorfold-compact-dark-260.png)](https://tensorfold.dev)
+
 ## Open source
 
 We publish tooling and components we've found useful in client work where we can. Browse the repos below — everything public lives under this org.
